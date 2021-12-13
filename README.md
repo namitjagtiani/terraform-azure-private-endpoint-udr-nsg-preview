@@ -39,9 +39,6 @@ username = "adminuser"
 password = "P@$$w0rd1234!"
 
 ```
-
-Replace the "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" values with the relevant information based on your subscription.
-
 Replace the `username` and `password` values with a value of your choosing.
 
 ### 4. Initialize the Terraform Code
