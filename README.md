@@ -1,6 +1,6 @@
 # Using Azure Private Endpoints UDR and NSG support preview
 
-This repo contains the components required to test the Azure Private Endpoint UDR and NSG preview functionality outlined in the This site was built using [Blog article](https://namitjagtiani.com/2021/12/13/azure-private-endpoints-udr-and-nsg-support/).
+This repo contains the components required to build and test the Azure Private Endpoint UDR and NSG preview functionality outlined in this blog article [Blog article](https://namitjagtiani.com/2021/12/13/azure-private-endpoints-udr-and-nsg-support/).
 
 ## Deployment diagram
 
