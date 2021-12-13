@@ -1,6 +1,6 @@
 # Using Azure Private Endpoints UDR and NSG support preview
 
-This repo contains the components required to test the Azure Private Endpoint and Private Link functionality outlined in the This site was built using [Blog article](https://namitjagtiani.com/2020/02/14/azure-private-link-udr-support-public-preview/).
+This repo contains the components required to test the Azure Private Endpoint UDR and NSG preview functionality outlined in the This site was built using [Blog article](https://namitjagtiani.com/2021/12/13/azure-private-endpoints-udr-and-nsg-support/).
 
 ## Deployment diagram
 
@@ -40,9 +40,9 @@ password = "P@$$w0rd1234!"
 
 ```
 
-Replace the "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" values with the relevant information based on your `Producer and Consumer subscriptions`.
+Replace the "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" values with the relevant information based on your subscription.
 
-Replace the `username` and `password` values with a vlue of your choosing.
+Replace the `username` and `password` values with a value of your choosing.
 
 ### 4. Initialize the Terraform Code
 
